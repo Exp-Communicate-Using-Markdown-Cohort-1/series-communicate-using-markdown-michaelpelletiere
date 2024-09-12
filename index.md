@@ -1,6 +1,5 @@
 # GitHub Education Markdown
-### Photo of Yaktocat from Repository
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+### Creating A List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
